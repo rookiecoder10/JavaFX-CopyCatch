@@ -1,4 +1,4 @@
-# JavaFX-CopyCatch
+# CopyCatch
 A JAVA application to detect common files in two folders.
 CopyCatch takes two folder paths.
 It searches and lists all the common files in the two folders.
